@@ -1,0 +1,38 @@
+body{
+    background: url(https://4kwallpapers.com/images/wallpapers/glacier-mountains-waterfall-watch-tower-moon-night-time-2048x1536-6404.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+h1{
+    color:aqua;
+    font-size: xx-large;
+
+    margin-top: 180px;
+    text-align: center;
+    margin-left: 1opx;
+
+}
+
+#btn{
+    width: 100px;
+    margin:0;
+    position: absolute;
+    left: 47%;
+    background-color: rgb(203, 240, 145);
+    padding: 12px;
+    border-radius: 5px;
+    cursor: pointer;
+    
+
+
+}
+
+
+
+p{
+    text-align: center;
+    color: rgb(240, 217, 17);
+    font-size: larger;
+    font-weight: bold;
+}
